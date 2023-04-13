@@ -14,7 +14,7 @@
     <section id="screen_title">
         <h4 id="game_title">Riozacki's stealth mission</h4>
         <div id="button_container_style">
-            <button id="BM1PLAYERS" class="button_style">1 PLAYER</button>
+            <button id="myButton" class="button_style">1 PLAYER</button>
             <button id="BM2PLAYERS" class="button_style">2 PLAYERS</button>
             <button id="BMOPTIONS" class="button_style">OPTIONS</button>
             <button id="BMCREDITS" class="button_style">CREDITS</button>
